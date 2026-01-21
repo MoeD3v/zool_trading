@@ -3,18 +3,18 @@
     <channel>
         <title>Zool Trading</title>
         <item>
-            <title>Version 1.0.9</title>
+            <title>Version 1.1.09</title>
             <description>
-*إضافة إشعار (PAYبنكك) بدون الماسح.
-*تحسين الإشعار الاخضر.
-*إضافة ميزة تعديل الاسم.
-*معالجة مفتاح رجوع الهاتف.
-*تحسينات اخري طالبتم بها.
+*إضافة خدمة #زيد_لي_صفر.
+*إضافة حفظ المستفيدين في الذاكرة المحلية لسرعة الاستجلاب.
+*تحسين عرض كشف الحساب.
+*تحسينات اخري طالبتم بها
+
             </description>
-            <pubDate>Fri, 9 Jan 2026 12:00:00 +0000</pubDate>
+            <pubDate>Wed, 21 Jan 2026 12:00:00 +0000</pubDate>
             <enclosure 
                 url="tg://resolve?domain=mBokMoeJrD3v" 
-                sparkle:version="1.0.9" 
+                sparkle:version="1.1.0" 
                 sparkle:os="android" 
                 sparkle:criticalUpdate="true"
             />
